@@ -1,16 +1,8 @@
+weather app utilizando la API de metaweather
+
+-se hizo prioridad la arquitectura de la app
+-se hizo la funcionalidad de buscar en base a la ciudad
+-no se implemento el splash screen, aunque se podria hacer con alguno de los plugins de pub.dev
 
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
